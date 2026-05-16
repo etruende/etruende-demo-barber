@@ -4,7 +4,7 @@
 
 # Barbershop by EtruendE
 
-**Premium barbershop landing page — demo project by [EtruendE Webstudio](https://etruende.com)**
+**Premium barbershop landing page - demo project by [EtruendE Webstudio](https://etruende.com)**
 
 [![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
@@ -116,7 +116,7 @@ This project is part of the EtruendE demo series:
 
 | Project | Industry | Stack |
 |---|---|---|
-| **Northside Barber** ← you are here | Barbershop | Next.js, Tailwind, shadcn |
+| **Barbershop by EtruendE** ← you are here | Barbershop | Next.js, Tailwind, shadcn |
 | Coming soon | Café & Restaurant | Next.js, Tailwind |
 | Coming soon | Photography | Next.js, Tailwind |
 | Coming soon | Law Firm | Next.js, Tailwind |
