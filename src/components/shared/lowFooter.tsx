@@ -26,7 +26,7 @@ export default function BarberDemoLowFooter() {
                         </Link>
                     </li>
                     <li>
-                        <Link href="#">
+                        <Link href="https://www.instagram.com/etruende_webstudio/">
                             <Image className="w-6 h-6" src={ig} alt={""} />
                         </Link>
                     </li>

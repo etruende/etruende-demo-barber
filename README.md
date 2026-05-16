@@ -2,7 +2,7 @@
 
 <img src="https://etruende.com/logo.png" alt="EtruendE" width="60" />
 
-# Northside Barber
+# Barbershop by EtruendE
 
 **Premium barbershop landing page — demo project by [EtruendE Webstudio](https://etruende.com)**
 
@@ -26,14 +26,14 @@ This is one of several demo projects built to demonstrate the studio's capabilit
 
 ## Features
 
-- **Responsive design** — looks great on all screen sizes from mobile to 4K
-- **Dark premium aesthetic** — deep blacks, gold accents, strong typography
-- **Smooth scroll navigation** — single-page layout with anchor links
-- **Services section** — pricing cards with hover effects
-- **Gallery section** — work showcase grid
-- **Booking CTA** — call-to-action section with contact integration
-- **Performance optimized** — built with Next.js App Router and server components
-- **Accessible** — semantic HTML, proper contrast ratios
+- **Responsive design** - looks great on all screen sizes from mobile to 4K
+- **Dark premium aesthetic** - deep blacks, gold accents, strong typography
+- **Smooth scroll navigation** - single-page layout with anchor links
+- **Services section** - pricing cards with hover effects
+- **Gallery section** - work showcase grid
+- **Booking CTA** - call-to-action section with contact integration
+- **Performance optimized** - built with Next.js App Router and server components
+- **Accessible** - semantic HTML, proper contrast ratios
 
 ## Tech Stack
 
@@ -71,9 +71,7 @@ src/
 │   └── globals.css       # Global styles
 ├── components/
 │   ├── ui/               # shadcn/ui components
-│   ├── sections/         # Page sections
 │   └── shared/           # Shared components
-public/
 └── images/               # Static assets
 ```
 
@@ -92,9 +90,9 @@ npm run lint       # Run ESLint
 
 <div>
 
-**EtruendE** is a web studio specializing in building modern, high-performance websites for businesses. Based in Tallinn, Estonia — working with clients globally.
+**EtruendE** is a web studio specializing in building modern, high-performance websites for businesses. Based in Tallinn, Estonia - working with clients globally.
 
-We build with the modern stack: **Next.js, TypeScript, Tailwind CSS** — delivering fast, scalable, and beautiful web experiences.
+We build with the modern stack: **Next.js, TypeScript, Tailwind CSS** - delivering fast, scalable, and beautiful web experiences.
 
 **What we do:**
 - Business landing pages
@@ -105,8 +103,8 @@ We build with the modern stack: **Next.js, TypeScript, Tailwind CSS** — delive
 **Get in touch:**
 
 [![Website](https://img.shields.io/badge/etruende.com-000000?style=flat&logo=safari&logoColor=white)](https://etruende.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hello@etruende.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/etruende)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:etruendewebstudio@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/etruende_webstudio/)
 
 </div>
 
