@@ -20,7 +20,7 @@
 
 ## Overview
 
-A modern, fully responsive barbershop landing page built as a portfolio demonstration by **EtruendE Webstudio**. Designed to showcase what a real client website could look like — dark aesthetic, smooth animations, clean typography, and mobile-first layout.
+A modern, fully responsive barbershop landing page built as a portfolio demonstration by **EtruendE Webstudio**. Designed to showcase what a real client website could look like — smooth animations, clean typography, and mobile-first layout.
 
 This is one of several demo projects built to demonstrate the studio's capabilities across different industries and design styles.
 
